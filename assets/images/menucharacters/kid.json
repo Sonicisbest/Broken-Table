@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Kid",
+	"position": [
+		70,
+		130
+	],
+	"scale": 0.57,
+	"idle_anim": "ohnooutline",
+	"confirm_anim": "ohnooutline"
+}
