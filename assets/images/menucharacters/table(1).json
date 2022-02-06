@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Table",
+	"position": [
+		230,
+		-150
+	],
+	"scale": 0.58,
+	"idle_anim": "broken ass table",
+	"confirm_anim": "broken ass table"
+}
